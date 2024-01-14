@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-01-14T08:48:46.324Z" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/116.0" etag="L-lxRJ8727PydkPjkepo" version="22.1.18" type="github">
+<mxfile host="app.diagrams.net" modified="2024-01-14T08:53:15.752Z" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/116.0" etag="Ppjqq6MWhV5Nbu-67D5x" version="22.1.18" type="github">
   <diagram name="Page-1" id="3FGamRi0_vUj3R_QOQM6">
     <mxGraphModel dx="1322" dy="933" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -8,13 +8,13 @@
           <mxGeometry x="-194" y="-54" width="475" height="512" as="geometry" />
         </mxCell>
         <mxCell id="AynQN2v8Zedfy5oqiMx1-2" value="&lt;div&gt;packaging_tutorial&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="319" y="-37" width="60" height="30" as="geometry" />
+          <mxGeometry x="319" y="187" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="AynQN2v8Zedfy5oqiMx1-3" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="-163" y="-42" width="342" height="191" as="geometry" />
         </mxCell>
         <mxCell id="AynQN2v8Zedfy5oqiMx1-4" value="&lt;div&gt;src&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="170" y="-7" width="60" height="30" as="geometry" />
+          <mxGeometry x="175" y="38.5" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="AynQN2v8Zedfy5oqiMx1-6" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="-163" y="159" width="340" height="132" as="geometry" />
@@ -33,6 +33,15 @@
         </mxCell>
         <mxCell id="AynQN2v8Zedfy5oqiMx1-12" value="&lt;div&gt;.venv/&lt;/div&gt;&lt;div&gt;proj.toml&lt;/div&gt;&lt;div&gt;README.md&lt;/div&gt;&lt;div&gt;LICENSE&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="-131" y="329" width="196" height="69" as="geometry" />
+        </mxCell>
+        <mxCell id="AynQN2v8Zedfy5oqiMx1-13" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="-156" y="-33" width="230" height="172" as="geometry" />
+        </mxCell>
+        <mxCell id="AynQN2v8Zedfy5oqiMx1-14" value="core_package" style="text;strokeColor=none;fillColor=none;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="99" y="38.5" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="AynQN2v8Zedfy5oqiMx1-15" value="&lt;div&gt;subpackage1/&lt;/div&gt;&lt;div&gt;subpackage2/&lt;/div&gt;&lt;div&gt;module1.py&lt;/div&gt;&lt;div&gt;module2.py&lt;/div&gt;&lt;div&gt;__init__.py&lt;br&gt;&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="-122" y="-27" width="150" height="159" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
